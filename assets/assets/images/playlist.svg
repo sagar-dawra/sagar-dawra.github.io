@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.692" height="54.462" viewBox="0 0 49.692 54.462">
+  <g id="playlist" transform="translate(1 1)">
+    <g id="Group_28" data-name="Group 28" transform="translate(0 0)">
+      <path id="Vector" d="M32.38,47.916l-8.518,4.545-8.518-4.577A28.579,28.579,0,0,1,0,22.726V0H47.692V22.726A28.7,28.7,0,0,1,32.38,47.916Z" transform="translate(0)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" y2="15.43" transform="translate(16.833 14.729)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-width="2.5"/>
+    <line id="Line_5" data-name="Line 5" y2="15.43" transform="translate(30.86 14.729)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-width="2.5"/>
+    <line id="Line_4" data-name="Line 4" y2="9.819" transform="translate(9.819 17.534)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-width="2.5"/>
+    <line id="Line_6" data-name="Line 6" y2="9.819" transform="translate(37.873 17.534)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-width="2.5"/>
+    <line id="Line_2" data-name="Line 2" y2="23.846" transform="translate(23.846 10.52)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-width="2.5"/>
+  </g>
+</svg>

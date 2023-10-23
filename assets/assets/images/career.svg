@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.692" height="54.462" viewBox="0 0 49.692 54.462">
+  <g id="career_icon" transform="translate(1 1)">
+    <path id="Vector" d="M32.38,47.916l-8.518,4.545-8.518-4.577A28.579,28.579,0,0,1,0,22.726V0H47.692V22.726A28.7,28.7,0,0,1,32.38,47.916Z" transform="translate(0 0)" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g id="Icon_feather-plus" data-name="Icon feather-plus" transform="translate(41.846 5.302) rotate(90)">
+      <path id="Path_30" data-name="Path 30" d="M18,7.5v21" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_31" data-name="Path 31" d="M7.5,18h21" fill="none" stroke="#aaa" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
